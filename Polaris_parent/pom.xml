@@ -15,7 +15,7 @@
         <resteasy-version>3.0.13.Final</resteasy-version>
         <spring_version>5.2.6.RELEASE</spring_version>
         <tomcat-version>9.0.35</tomcat-version>
-        <jetty-version>9.4.35.v20201120</jetty-version>
+        <jetty-version>9.4.41.v20210516</jetty-version>
         <undertow-version>2.0.30.Final</undertow-version>
         <polaris-version>1.7.6</polaris-version>
         <activiti-version>5.22.0</activiti-version>
